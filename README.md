@@ -15,7 +15,7 @@
 	<a target="_blank" href="https://linkedin.com/in/jean-christophe-lamy-8225781a5"><img alt="linkedin" width="10%" style="padding:5px"     src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a target="_blank" href="https://www.facebook.com/Burit0s"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 	<a target="_blank" href="https://www.instagram.com/haralamy/"><img alt="instagram" width="10%" style="padding:5px" 	src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a target="_blank" href="mailto:jctlamy@gmail.com"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+	<a target="_blank" href="mailto:jctlamy@gmail.com"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </p>
 <hr>
 
