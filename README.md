@@ -2,7 +2,7 @@
 
 <p align="left">
 	<img width="40%" src="https://steamuserimages-a.akamaihd.net/ugc/875244468227167864/93C3A520AA5CAB5E0E2EAFEDFE637859ED6FE26D/" align="right" alt="JC's GitHub Readme" />
-	Passionned about programmation, i just started my first project gretagram!<br> There's more to come, as i'll keep learning to improv my skills to the max 	i can do.
+	Brand new in programmation, i just started my first project gretagram!<br> There's more to come, as i'll keep learning to improv my skills to the max 	i can do.
 	It's very basic so far, but you can check it and i hope you'll enjoy it!
 </p>
 
