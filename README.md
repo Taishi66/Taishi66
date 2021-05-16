@@ -24,8 +24,6 @@
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" width="4%" />  
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="5%" />  
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="5%" />  
-	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="4%" />  
-	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="5%" />  
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="php" width="5%" />  
 	<img style="margin: 10px" src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="sql" width="5%" />  
 	<img style="margin: 10px" src="https://symfony.com/logos/symfony_white_03.png" alt="symfony" width="4%" />  
@@ -35,6 +33,8 @@
 
 ### 🛠️ Tools 🛠️
 <p>
+	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="4%" />  
+	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="5%" />  
 	<img width="9%" style="margin-right: 10px" src="https://icon-library.net/images/phpmyadmin-icon/phpmyadmin-icon-1.jpg" alt="php" />  
 	<a href="https://code.visualstudio.com/" target="_blank"> <img style="margin-right: 10px" width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" /> </a>
 	<img style="margin-right: 10px" width="13%" src="https://symbols.getvecta.com/stencil_85/32_jira.882b9a3985.svg" alt="jira"/>
