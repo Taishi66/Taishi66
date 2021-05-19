@@ -34,8 +34,9 @@
 ### 🛠️ Tools 🛠️
 <p>
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="4%" />  
-	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="5%" />  
-	<img width="9%" style="margin-right: 10px" src="https://icon-library.net/images/phpmyadmin-icon/phpmyadmin-icon-1.jpg" alt="php" />  
+	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="5%" /> 
+	<img style="margin-right: 10px" src="https://img2.freepng.fr/20180803/abq/kisspng-mysql-cluster-database-management-system-%E4%B8%93-%E9%A2%98-%E5%92%96-%E5%95%A1-%E4%B8%8E-%E4%BB%A3-%E7%A0%81-5b640d8b2a2e53.6067051415332837231728.jpg" alt="jQuery" width="5%" />
+		<img width="9%" style="margin-right: 10px" src="https://icon-library.net/images/phpmyadmin-icon/phpmyadmin-icon-1.jpg" alt="php" />  
 	<a href="https://code.visualstudio.com/" target="_blank"> <img style="margin-right: 10px" width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" /> </a>
 	<img style="margin-right: 10px" width="13%" src="https://symbols.getvecta.com/stencil_85/32_jira.882b9a3985.svg" alt="jira"/>
 	<img style="margin-right:10px" width="5%" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/512px-Discord.svg.png" alt="discord"/>
