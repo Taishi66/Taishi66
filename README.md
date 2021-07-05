@@ -25,8 +25,7 @@
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" width="5%" />  
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="5%" />  
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="php" width="5%" />  
-	<img style="margin: 10px" src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="sql" width="5%" />  
-	<img style="margin: 10px" src="https://img2.freepng.fr/20180720/cax/kisspng-laravel-software-framework-php-web-application-redes-sociais-5b523130965485.0186996815321132006158.jpg" alt="laravel" width="4%" />  
+	<img style="margin: 10px" src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="sql" width="5%" />   
 </p>
 <br>
 <br>
@@ -36,12 +35,12 @@
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" width="4%" />  
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" width="5%" /> 
 	<img style="margin-right: 10px" src="https://img2.freepng.fr/20180803/abq/kisspng-mysql-cluster-database-management-system-%E4%B8%93-%E9%A2%98-%E5%92%96-%E5%95%A1-%E4%B8%8E-%E4%BB%A3-%E7%A0%81-5b640d8b2a2e53.6067051415332837231728.jpg" alt="jQuery" width="5%" />
-		<img width="9%" style="margin-right: 10px" src="https://icon-library.net/images/phpmyadmin-icon/phpmyadmin-icon-1.jpg" alt="php" />  
-	<a href="https://code.visualstudio.com/" target="_blank"> <img style="margin-right: 10px" width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" /> </a>
+			<a href="https://code.visualstudio.com/" target="_blank"> <img style="margin-right: 10px" width="4%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" /> </a>
 	<img style="margin-right: 10px" width="13%" src="https://symbols.getvecta.com/stencil_85/32_jira.882b9a3985.svg" alt="jira"/>
 	<img style="margin-right:10px" width="5%" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/512px-Discord.svg.png" alt="discord"/>
 	<img style="margin-right:10px" width="4%" src="https://www.pearlinux.fr/wp-content/uploads/2020/01/logo-slack-180x180.png" alt="slack"/>
 	<img style="margin-right:10px" width="4%" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38628/preview.svg" alt="sentry"/>
+	<img style="margin:10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--VwfzQItM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uibfp848f0plz8z0yr5p.png" alt="laravel" width="10%" />
 </p>
 <hr>
 
