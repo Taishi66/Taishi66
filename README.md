@@ -26,7 +26,7 @@
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" width="5%" />  
 	<img style="margin-right: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="php" width="5%" />  
 	<img style="margin: 10px" src="https://icons.veryicon.com/png/o/application/designer-icon/sql-5.png" alt="sql" width="5%" />  
-	<img style="margin: 10px" src="https://symfony.com/logos/symfony_white_03.png" alt="symfony" width="4%" />  
+	<img style="margin: 10px" src="https://img2.freepng.fr/20180720/cax/kisspng-laravel-software-framework-php-web-application-redes-sociais-5b523130965485.0186996815321132006158.jpg" alt="laravel" width="4%" />  
 </p>
 <br>
 <br>
