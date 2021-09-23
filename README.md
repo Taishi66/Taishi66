@@ -39,7 +39,7 @@
 	<img style="margin-right:10px" width="5%" src="https://upload.wikimedia.org/wikipedia/fr/thumb/0/05/Discord.svg/512px-Discord.svg.png" alt="discord"/>
 	<img style="margin-right:10px" width="4%" src="https://www.pearlinux.fr/wp-content/uploads/2020/01/logo-slack-180x180.png" alt="slack"/>
 	<img style="margin-right:10px" width="4%" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38628/preview.svg" alt="sentry"/>
-	<img style="margin:10px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--VwfzQItM--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/uibfp848f0plz8z0yr5p.png" alt="laravel" width="10%" />
+	<img style="margin-top:10px" width="20%" src="https://symfony.com/logos/symfony_black_02.png" alt="symfony"  />
 </p>
 <hr>
 
