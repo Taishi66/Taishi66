@@ -3,7 +3,7 @@
 <p align="left">
 	<img width="40%" src="https://steamuserimages-a.akamaihd.net/ugc/875244468227167864/93C3A520AA5CAB5E0E2EAFEDFE637859ED6FE26D/" align="right" alt="JC's GitHub Readme" />
 	Recently graduated in programmation, i love discovering and learning new things!<br> Feel free to check and see what i've done, thanks !
-	[CURRENTLY LOOKING FOR A JUNIOR JOB OPPORTUNITY]
+	<br><b>[CURRENTLY LOOKING FOR A JUNIOR JOB OPPORTUNITY]</b>
 </p>
 
 <br>
