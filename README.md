@@ -1,4 +1,4 @@
-### Hi there 👋 i'm JC, i'm half french half japanese, and i'm a web developer in ```$france[ile_de_france]``` 🥖 at Davidson Consulting Paris
+### Hi there 👋 i'm JC, i'm half french half japanese, and i'm a web developer in ```france[ile_de_france]``` 🥖 at Davidson Consulting Paris
 
 <p align="left">
 	<img width="40%" src="https://steamuserimages-a.akamaihd.net/ugc/875244468227167864/93C3A520AA5CAB5E0E2EAFEDFE637859ED6FE26D/" align="right" alt="JC's GitHub Readme" />
