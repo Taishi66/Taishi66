@@ -1,0 +1,52 @@
+name: Update profile metrics (languages incl. private)
+
+on:
+  # met à jour tous les jours + à chaque push sur README
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - README.md
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # important : ton username GitHub
+          user: YOUR_GITHUB_USERNAME
+          # où écrire le SVG généré
+          filename: metrics-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # ⚙️ Langages (public + privé)
+          use_private: true
+          repositories_affiliations: owner,collaborator,organization_member
+
+          # Plugins
+          base: ""                               # pas les stats de base, seulement ce qu'on veut
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css  # optionnel : cache ceux que tu ne veux pas voir
+          plugin_languages_limit: 12
+          plugin_languages_sections: most-used   # “most-used”, “recently-used”, etc.
+          plugin_languages_indepth: true
+          plugin_languages_details: percentage,bytes-size
+          plugin_languages_threshold: 0%         # montre même les petits langages
+          plugin_languages_recent_days: 365      # fenêtrage pour “recently-used” si activé
+
+      - name: Commit generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add metrics-languages.svg
+          git commit -m "chore: update metrics (languages incl. private)" || echo "No changes"
+          git push
