@@ -1,29 +1,28 @@
-```
- ██████╗████████╗██████╗ ██╗      ██╗    ███████╗     ███████╗███╗   ██╗██████╗     ██████╗ ██████╗  █████╗ ██╗   ██╗
-██╔════╝╚══██╔══╝██╔══██╗██║      ╚██╗   ██╔════╝     ██╔══██║████╗  ██║██╔══██╗    ██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
-██║        ██║   ██████╔╝██║       ╚██╗  ███████╗     ███████║██╔██╗ ██║██║  ██║    ██████╔╝██████╔╝███████║ ╚████╔╝
-██║        ██║   ██╔══██╗██║       ██╔╝  ╚════██║     ██╔══██║██║╚██╗██║██║  ██║    ██╔═══╝ ██╔══██╗██╔══██║  ╚██╔╝
-╚██████╗   ██║   ██║  ██║███████╗ ██╔╝   ███████║██╗  ██║  ██║██║ ╚████║██████╔╝    ██║     ██║  ██║██║  ██║   ██║██╗
- ╚═════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝ ╚═╝    ╚══════╝╚═╝  ╚═╝  ╚═╝╚═╝  ╚═══╝╚═════╝     ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝╚═╝
+<div align="center">
+
 ```
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=2000&color=888888&center=true&vCenter=true&repeat=true&width=435&lines=I+build+apps.+I+craft+tools.;Then+I+ship." alt="Typing SVG" />
-</div>
+    ░█████╗░████████╗██████╗░██╗░░░░░░░░██╗░██████╗
+    ██╔══██╗╚══██╔══╝██╔══██╗██║░░░░░░░██╔╝██╔════╝
+    ██║░░╚═╝░░░██║░░░██████╔╝██║░░░░░░██╔╝░╚█████╗░
+    ██║░░██╗░░░██║░░░██╔══██╗██║░░░░░██╔╝░░░╚═══██╗
+    ╚█████╔╝░░░██║░░░██║░░██║███████╗██╔╝░░██████╔╝
+    ░╚════╝░░░░╚═╝░░░╚═╝░░╚═╝╚══════╝╚═╝░░░╚═════╝░
 
-<br/>
-<br/><br/>
+              ᴀ ɴ ᴅ    ᴘ ʀ ᴀ ʏ .
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Taishi66&theme=github-dark&hide_border=true&bg_color=00000000&color=888888&line=ffffff&point=ffffff&area=true&area_color=888888&days=180" width="90%"/>
-</div>
+```
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taishi66&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=888&langs_count=8" width="40%"/>
-</div>
+**I build apps. I craft tools. Then I ship.**
 
 <br/><br/>
 
----
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Taishi66&theme=transparent&hide_border=true&ring=888888&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=444444" width="50%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taishi66&layout=compact&theme=transparent&hide_border=true&title_color=fff&text_color=888&langs_count=8" width="45%"/>
+
+</div>
