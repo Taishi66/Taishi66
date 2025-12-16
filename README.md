@@ -19,7 +19,7 @@
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Taishi66&theme=transparent&hide_border=true&ring=888888&fire=ffffff&currStreakLabel=888888&sideLabels=888888&currStreakNum=ffffff&sideNums=888888&dates=444444" width="50%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Taishi66&theme=dark&hide_border=true&background=00000000" width="55%"/>
 
 <br/><br/>
 
